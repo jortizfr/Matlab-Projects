@@ -1,4 +1,4 @@
-function demoDisplay
+function BouncingUR
 %%%%%%%%%%%%%%%%%%
 % Johann Ortiz-Franco 
 % CSC 160: Bouncing UR 
